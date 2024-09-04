@@ -1,0 +1,16 @@
+body {
+    color: gray;
+    background: white;
+ margin: 0px;
+}
+
+header {
+    border: solid 2px rgb(255, 255, 255);
+    padding: 20px;
+    font-size:32px;
+    color: rgb(255, 255, 255)
+}
+
+   section{
+    background: rgb(99,102,95)
+   }
